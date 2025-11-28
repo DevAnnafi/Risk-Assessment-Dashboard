@@ -1,0 +1,26 @@
+Risk,Category,Likelihood,Impact,Mitigation
+Data Breach,Cybersecurity,4,5,Implement multi-factor authentication and encryption
+Phishing Attack,Cybersecurity,3,4,Conduct employee training and deploy email filters
+Ransomware Attack,Cybersecurity,3,5,Regular backups and endpoint protection
+Insider Threat,Cybersecurity,2,5,Role-based access control and monitoring
+Malware Infection,Cybersecurity,3,4,Anti-malware software and patch management
+DDoS Attack,Cybersecurity,3,4,Network monitoring and firewall rules
+Unauthorized Access,Cybersecurity,3,4,Strong passwords and access reviews
+Server Downtime,Operational,2,4,Redundant systems and monitoring
+IT System Failure,Operational,2,5,Backup systems and disaster recovery plan
+Supply Chain Disruption,Operational,3,4,Vendor diversification and contingency planning
+Human Error,Operational,3,3,Training and SOP documentation
+Financial Fraud,Financial,2,5,Internal audits and transaction monitoring
+Budget Overrun,Financial,3,4,Cost tracking and approval processes
+Regulatory Fines,Compliance,2,5,Compliance audits and policy updates
+GDPR Non-compliance,Compliance,3,4,Privacy policies and employee training
+HIPAA Violation,Compliance,2,5,Access controls and data encryption
+PCI DSS Non-compliance,Compliance,2,5,Payment system audits and security controls
+Vendor Failure,Third-Party,3,4,Vendor assessments and contracts
+Contract Breach,Third-Party,2,4,Contract monitoring and legal review
+Legal Action,Third-Party,2,5,Legal counsel and risk mitigation planning
+Natural Disaster,Operational,1,5,Disaster recovery plan and insurance
+Reputation Damage,Operational,3,4,PR strategy and crisis management
+Data Loss,Cybersecurity,2,5,Backup strategy and cloud storage
+Unauthorized Software,Cybersecurity,3,3,Application whitelisting and monitoring
+Social Engineering,Cybersecurity,3,4,Employee training and phishing simulations
