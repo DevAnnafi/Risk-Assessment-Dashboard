@@ -15,6 +15,7 @@ A Governance, Risk, and Compliance (GRC) project simulating risk identification,
 - seaborn
 
 ## Project Structure
+```
 risk-assessment-dashboard/
 ├── data/
 │ └── risks.csv
@@ -24,7 +25,7 @@ risk-assessment-dashboard/
 │ └── risk_heatmap.png
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Usage
 1. Clone the repository
